@@ -1,0 +1,25 @@
+.list_wrapper{
+    background: linear-gradient(to right, #8B00FF, #800080);
+    background: linear-gradient(to right, purple, lightblue);
+    max-width:95vh;
+    position:relative;
+    height:8vh;
+    width:95vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex:1;
+    border-radius:10px;
+    margin:auto;
+    margin-top:10px;
+}
+.s_no{
+       font-size:22px;
+       font-weight:bold;
+       margin-right:15px;
+}
+h4{
+    margin-left:10px;
+    text-align:center;
+}
+
