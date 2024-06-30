@@ -18,8 +18,6 @@ export default function TaskSection() {
     };
 
     setListRender([...listRender, newTask]);
-
-    // Reset the input field values
     setSub('');
     setDet('');
     setDate('');
